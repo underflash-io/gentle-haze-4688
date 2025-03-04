@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "gentle-haze-4688",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6b9c3bb4-9e67-4092-9ab4-9bb78a7742f7",
+      "database_name": "mute-darkness-a721-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
